@@ -5,9 +5,7 @@ Project focused on React.js with Context API
 
 The ideia of this project is to use pure React with only one external lib.
 
-- React.js
-- Context API
-- react-router
-- pure CSS
-- victory
-
+Access the project:
+- Go to /dogs 
+- npm install
+- npm start 
